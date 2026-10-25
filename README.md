@@ -8,8 +8,7 @@ common software-related issues in a Windows environment.<br />
 - Windows 11
 <h2>Goodnotes Installation</h2>
 <p>
-<img width="713" height="463" alt="image"
-src="https://github.com/user-attachments/assets/df95dc33-b76b-426f-9f9a-e0379f3f59aa" />
+<img width="955" height="557" alt="Software Installation" src="https://github.com/user-attachments/assets/2b95d719-94ab-44cf-bfdb-5d19f32021c6" />
 </p>
 <p>
 Installed and un-installed Goodnotes software - reviewed mock scenario if user left company
